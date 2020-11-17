@@ -114,4 +114,4 @@ get_recommendations('The Dark Knight Rises', cosine_similar)
 get_recommendations('The Godfather', cosine_similar)
 
 
-# recommendation captures more metadata and has given better recommendation. 
+# recommendation captures more metadata and has given better recommendation.
